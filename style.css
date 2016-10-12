@@ -1,1 +1,17 @@
-CSS File
+<head>
+<style>
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+h2{
+  font-size: 36px;
+  text-align: center;
+}
+p{
+  color: blue;
+  font-size: 26px;
+  text-align: center;
+}
+</style>
+</head>
