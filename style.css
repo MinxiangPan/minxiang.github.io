@@ -27,6 +27,28 @@ h5{
   text-align: left;
   font-family: fantasy;
 }
+iframe.iframe{
+  margin-left: 280px;
+  margin-top: 100px;
+}
+img.display01{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.DocumentsImagesGroup{
+  margin-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img.display{
+  height: 50px;
+  width: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 p{
   color: #0a4096;
   font-size: 26px;
