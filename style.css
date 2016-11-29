@@ -86,7 +86,23 @@ iframe{
 }
 .eng105{
   background-image: url("images/UBNorthCampusMap02.JPG");
-
+  font-size: 16px;
+  color: #3366ff;
+}
+.engpar{
+  font-size: 26px;
+  text-align: center;
+  font-family: cursive;
+  color: #0000ff;
+}
+.engiframe{
+  position: absolute;
+  top: 0px;
+  left: 72%;
+  height: 100%;
+  width: 28%;
+  border-left-width: 5px;
+  border-color: #ff9933;
 }
 #redC{
   position: absolute;
