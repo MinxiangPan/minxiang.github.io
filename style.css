@@ -81,7 +81,7 @@ iframe{
   border-width: 0px;
 }
 .iframePage{
-  height: 2300px;
+  height: 800px;
   width: 100%
 }
 .eng105{
@@ -129,6 +129,18 @@ iframe{
   position: absolute;
   top: 350px;
   left: 600px;
+}
+.TableHeader{
+text-align: center;
+font-size: 25px;
+font-family: fantasy;
+background-color: #99ccff;
+}
+.TableBody{
+height: 200px;
+font-family: cursive;
+font-size: 20px;
+text-align: center;
 }
 </style>
 </head>
